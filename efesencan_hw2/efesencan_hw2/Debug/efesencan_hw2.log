@@ -1,0 +1,14 @@
+﻿Build started 14.12.2019 18:38:48.
+     1>Project "C:\Users\User\Documents\Visual Studio 2012\Projects\efesencan_hw2\efesencan_hw2\efesencan_hw2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D _CONSOLE /D "_UNICODE" /D "UNICODE" /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\..\..\Desktop\cs204_lecture\strutils.cpp efesencan_hw2.cpp
+         strutils.cpp
+     1>c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\Desktop\cs204_lecture\strutils.cpp': No such file or directory
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         efesencan_hw2.cpp
+     1>Done Building Project "C:\Users\User\Documents\Visual Studio 2012\Projects\efesencan_hw2\efesencan_hw2\efesencan_hw2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.26
